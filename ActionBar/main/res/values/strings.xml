@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="button2">Button</string>
+    <string name="togglebutton2">ToggleButton</string>
+    <string name="checkedtextview">CheckedTextView</string>
+    <string name="radiobutton">RadioButton</string>
+</resources>
