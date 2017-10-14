@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dropspin</string>
+    <string name="select_dist">Dist</string>
+    <string-array name="district">
+        <item>andhra pradesh</item>
+        <item>Telangana</item>
+
+    </string-array>
+</resources>
